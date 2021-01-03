@@ -7,7 +7,7 @@ namespace Logic
     {
         private Random m_Rand = new Random();
 
-        public string[] Cities { get; } = { "Netanya", "Ashdod", "Tel-Aviv", "Haifa", "Dimona", "Eilat", "Jerusalem" };
+        public string[] Cities { get; } = { "Netanya", "Ashdod", "Tel-Aviv", "Haifa", "Dimona", "Eilat", "Jerusalem" , "Holon" };
 
         public string[] DaysOfWeek { get; } = { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" };
 
